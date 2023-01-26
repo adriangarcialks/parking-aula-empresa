@@ -1,4 +1,4 @@
-name: SonarCloud
+name: Android CI
 on:
   push:
     branches:
